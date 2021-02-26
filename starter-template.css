@@ -1,0 +1,17 @@
+body {
+  padding-top: 5rem;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+section {
+  margin: 20em 0;
+}
+
+img {
+  max-width: 80%;
+}
